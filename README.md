@@ -31,11 +31,11 @@ Aquí listaremos algunas consideraciones que podremos tener en cuenta caso a cas
 ## Clasificación de Infracciones
 En función del grado de convicción que tengamos de que que estamos ante un alumno con código copiado, encontramos las siguientes tres categorías generales:
 
-1. Plagio demostrable: El alumno ha copiado un proyecto, teniendo a nuestra disposición del original del que éste procede, bien en archivo o repositorio.
+1. <ins>**Plagio demostrable:**</ins> El alumno ha copiado un proyecto, teniendo a nuestra disposición del original del que éste procede, bien en archivo o repositorio.
 
-2. Copia flagrante: No se ha encontrado el origen del código copiado, pero el estilo y calidad del código están muy por encima del nivel atribuido al alumno en cuestión, o se reconoce fácilmente como copiado de proyectos o repositorios conocidos o ChatGPT, con modificaciones superficiales para disimularlo.
+2. <ins>**Copia flagrante:**</ins> No se ha encontrado el origen del código copiado, pero el estilo y calidad del código están muy por encima del nivel atribuido al alumno en cuestión, o se reconoce fácilmente como copiado de proyectos o repositorios conocidos o ChatGPT, con modificaciones superficiales para disimularlo.
 
-3. Sospecha de copia: El código entregado por el alumno está apreciablemente por encima del nivel que se le atribuía, o abunda en prácticas disonantes con nuestras metodologías sin ser atribuibles a conocimientos previos (por ejemplo, uso extendido de POO en lugar de PF).
+3. <ins>**Sospecha de copia:**</ins> El código entregado por el alumno está apreciablemente por encima del nivel que se le atribuía, o abunda en prácticas disonantes con nuestras metodologías sin ser atribuibles a conocimientos previos (por ejemplo, uso extendido de POO en lugar de PF).
 ## Clasificación de Acciones
 Aquí tendremos una lista de las acciones que se podrán tomar como respuesta ante una infracción. Las diferenciaremos entre acciones de información y de respuesta:
 
@@ -59,13 +59,20 @@ Acciones dirigidas a resolver la situación. Se podrán combinar tantas como se 
 
 - <ins>**Defensa ante tribunal:**</ins> Se pedirá la defensa del proyecto en directo, en privado, y ante tribunal compuesto por uno o más docentes con el fin de discernir si el código ha sido copiado de forma constructiva. Recomendado para casos graves o proyectos entregados y corregidos en diferido.
 
-- <ins>**Reentrega inmediata:**</ins> Se enviará de forma automática al alumno a la reentrega más próxima, exigiéndole un proyecto claramente diferenciado del anterior.
+- <ins>**Reentrega directa:**</ins> Se enviará directamente al alumno a la reentrega más próxima, exigiéndole un proyecto claramente diferenciado del anterior.
 
 - <ins>**NO APTO**</ins>: El proyecto entregado será valorado como NO APTO de forma irrevocable, con las consecuencias que esto conlleve a nivel de convenio. Actualmente (20-12-2023) se perderá el derecho a la expedición del certificado acreditativo del curso realizado, pero se mantendrá el acceso a los recursos formativos.
 
 - <ins>**Expulsión inmediata**</ins>: El alumno será expulsado de la escuela, y todos sus accesos revocados.
 
-## Procedimientos
+## Procedimientos de actuación
+Aquí estableceremos una serie de procedimientos orientativos, coincidiendo con los distintos tipos de infracciones definidos en el [punto 5](#clasificación-de-infracciones)
+
+1. <ins>**Plagio demostrable:**</ins> Se deberá informar a Atención al Alumnado confrontar oficialmente y enviar a reentrega directa al alumno. En caso de reincidencia, se informará a Admisiones / Legal, se dará el NO APTO y se valorará la expulsión del alumno.
+
+2. <ins>**Copia flagrante:**</ins> Se deberá informar a Atención al Alumnado, confrontar oficialmente y exigir al alumno la defensa del proyecto ante tribunal en caso de que el código por lo menos sea consistente con las buenas prácticas y el formato que damos en clase. Si el código es lo suficientemente distinto como para "no parecerse a lo que hacemos", se procederá a enviar a reentrega directa.
+
+3. <ins>**Sospecha de copia:**</ins> Se deberá informar al claustro docente y monitorizar al alumno. Dada la oportunidad, se podrá controntar extraoficialmente al alumno o pedirle una explicación del código.
 
 ## Observaciones
 Sección destinada a dejar constancia de observaciones o TODOs que puedan ir surgiendo, para que sean fácilmente legibles junto al texto.
