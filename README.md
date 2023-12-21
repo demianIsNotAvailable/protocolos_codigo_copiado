@@ -1,7 +1,7 @@
 # Del código copiado
  Este documento pretende servir como guía para encauzar la conversación acerca de la respuesta que debemos dar al problema del código copiado por parte de los alumnos.
 
-## Índice
+## 0. Índice
 1. [Contexto](#contexto)
 2. [Ámbito de Aplicación](#ámbito-de-aplicación)
 3. [Consideraciones Generales](#consideraciones-generales)
@@ -11,24 +11,24 @@
 6. [Procedimientos](#procedimientos)
 7. [Observaciones](#observaciones)
 
-## Contexto
+## 1. Contexto
 Uno de los problemas con que nos encontramos en el desarrollo de los distintos bootcamps son los proyectos entregados por parte de los alumnos con código copiado. Copiar o basar pequeñas partes de código sacado de ejemplos vistos en clase o de trabajos de investigación adicionales es perfectamente natural y admisible, pero aquí hablaremos de código plagiado, no con un fin didáctico, sino buscando de algún modo un APTO no merecido. Por un lado y de forma más evidente se podría incurrir en [plagio](https://es.wikipedia.org/wiki/Plagio), pero de forma más sutil y perniciosa la imagen de la escuela podría verse afectada.
 
-## Ámbito de Aplicación
+## 2. Ámbito de Aplicación
 Los procedimientos planteados en este documento pretenden ser una referencia en aquellos casos en que un docente, el conjunto de docentes, o cualquier persona que pueda llevarla a la atención de éstos, tenga constancia o sospecha suficiente de que algún proyecto presentado por los alumnos de las distintas formaciones impartidas por la academia contenga una cantidad suficiente de código no producido por métodos "legítimos" (plagiado, copiado _maliciosamente_, generado por IA...).
 
-## Consideraciones Generales
+## 3. Consideraciones Generales
 A continuación listamos una serie de consideraciones generales que debemos tener en cuenta a la hora de actuar:
 1. Todas las acciones deben respetar el convenio firmado por la academia. En caso de duda o necesidad, se escalará la situación a Atención, Admisiones, Legal etc.
 
 2. Todas las acciones deben tener en cuenta, en la medida de lo posible, tanto las consecuencias a corto plazo (confrontaciones, repercusiones económicas inmediatas...) como a largo plazo (conflictos legales, impacto sobre la imagen de la academia...)
 
-## Consideraciones Individuales
+## 4. Consideraciones Individuales
 Aquí listaremos algunas consideraciones que podremos tener en cuenta caso a caso:
 1. Severidad de la infracción (desarrollado en el apartado siguiente)
 
 2. Disposición general del alumno en cuestión. Puede que no interese tomar medidas drásticas frente a un "buen alumno", mientras que ante alguien problemático puede ser una herramienta a usar en nuestro favor.
-## Clasificación de Infracciones
+## 5. Clasificación de Infracciones
 En función del grado de convicción que tengamos de que que estamos ante un alumno con código copiado, encontramos las siguientes tres categorías generales:
 
 1. <ins>**Plagio demostrable:**</ins> El alumno ha copiado un proyecto, teniendo a nuestra disposición del original del que éste procede, bien en archivo o repositorio.
@@ -36,7 +36,7 @@ En función del grado de convicción que tengamos de que que estamos ante un alu
 2. <ins>**Copia flagrante:**</ins> No se ha encontrado el origen del código copiado, pero el estilo y calidad del código están muy por encima del nivel atribuido al alumno en cuestión, o se reconoce fácilmente como copiado de proyectos o repositorios conocidos o ChatGPT, con modificaciones superficiales para disimularlo.
 
 3. <ins>**Sospecha de copia:**</ins> El código entregado por el alumno está apreciablemente por encima del nivel que se le atribuía, o abunda en prácticas disonantes con nuestras metodologías sin ser atribuibles a conocimientos previos (por ejemplo, uso extendido de POO en lugar de PF).
-## Clasificación de Acciones
+## 6. Clasificación de Acciones
 Aquí tendremos una lista de las acciones que se podrán tomar como respuesta ante una infracción. Las diferenciaremos entre acciones de información y de respuesta:
 
 ### 1. Información
@@ -65,7 +65,7 @@ Acciones dirigidas a resolver la situación. Se podrán combinar tantas como se 
 
 - <ins>**Expulsión inmediata**</ins>: El alumno será expulsado de la escuela, y todos sus accesos revocados.
 
-## Procedimientos de actuación
+## 7. Procedimientos de actuación
 Aquí estableceremos una serie de procedimientos orientativos, coincidiendo con los distintos tipos de infracciones definidos en el [punto 5](#clasificación-de-infracciones)
 
 1. <ins>**Plagio demostrable:**</ins> Se deberá informar a Atención al Alumnado confrontar oficialmente y enviar a reentrega directa al alumno. En caso de reincidencia, se informará a Admisiones / Legal, se dará el NO APTO y se valorará la expulsión del alumno.
@@ -74,5 +74,5 @@ Aquí estableceremos una serie de procedimientos orientativos, coincidiendo con 
 
 3. <ins>**Sospecha de copia:**</ins> Se deberá informar al claustro docente y monitorizar al alumno. Dada la oportunidad, se podrá controntar extraoficialmente al alumno o pedirle una explicación del código.
 
-## Observaciones
+## 8. Observaciones
 Sección destinada a dejar constancia de observaciones o TODOs que puedan ir surgiendo, para que sean fácilmente legibles junto al texto.
